@@ -8787,7 +8787,11 @@ h1, h2, h3, h4, h5,
         border: 1px solid transparent;
         background: #ffbd39;
         color: #fff; }
-
+.ftco-about{
+  @media (max-width: 767.98px){
+    margin: 20px;
+  }
+}
 .ftco-about .img-about {
   width: 100%;
   z-index: 0;
