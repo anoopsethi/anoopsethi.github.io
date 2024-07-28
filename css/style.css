@@ -8502,7 +8502,7 @@ h1, h2, h3, h4, h5,
                 opacity: 0; } }
           @media (max-width: 768px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
-              top: 5px;
+              top: -8px;
               width: 100%;
               } }
 
